@@ -1,0 +1,75 @@
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\bin\Debug\demo.exe.config
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\bin\Debug\demo.exe
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\bin\Debug\demo.pdb
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\bin\Debug\EntityFramework.dll
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\bin\Debug\EntityFramework.xml
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\LoginWindow.g.cs
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\MainWindow.g.cs
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\App.g.cs
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\demo_Content.g.cs
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\demo_MarkupCompile.cache
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\demo_MarkupCompile.lref
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\LoginWindow.baml
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\MainWindow.baml
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\demo.g.resources
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\demo.csproj.CopyComplete
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\demo.exe
+C:\Users\jusep\OneDrive\Рабочий стол\demo\demo\obj\Debug\demo.pdb
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\LoginWindow.g.cs
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\demo_Content.g.cs
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\demo_MarkupCompile.cache
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\demo_MarkupCompile.lref
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\demo.exe
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\demo.pdb
+C:\Users\lenovo\Desktop\demo\demo\bin\Debug\demo.exe.config
+C:\Users\lenovo\Desktop\demo\demo\bin\Debug\demo.exe
+C:\Users\lenovo\Desktop\demo\demo\bin\Debug\demo.pdb
+C:\Users\lenovo\Desktop\demo\demo\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\demo\demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\demo\demo\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\demo\demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\demo\demo\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\LoginWindow.baml
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\demo.g.resources
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\demo\demo\obj\Debug\demo.csproj.CopyComplete
+C:\Users\lenovo\Desktop\F\demo\demo\bin\Debug\demo.exe.config
+C:\Users\lenovo\Desktop\F\demo\demo\bin\Debug\demo.exe
+C:\Users\lenovo\Desktop\F\demo\demo\bin\Debug\demo.pdb
+C:\Users\lenovo\Desktop\F\demo\demo\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\F\demo\demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\F\demo\demo\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\F\demo\demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\F\demo\demo\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\LoginWindow.g.cs
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\demo_Content.g.cs
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\demo_MarkupCompile.cache
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\demo_MarkupCompile.lref
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\LoginWindow.baml
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\demo.g.resources
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\demo.csproj.CopyComplete
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\demo.exe
+C:\Users\lenovo\Desktop\F\demo\demo\obj\Debug\demo.pdb
